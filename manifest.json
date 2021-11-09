@@ -1,0 +1,224 @@
+{
+  "sitemap": {
+    "fileOptions": {
+      "api/*": {
+        "baseUrl": "https://docs.tesseract.in/documentation/",
+        "changefreq": "daily"
+      }
+    },
+    "baseUrl": "https://docs.tesseract.in/documentation/",
+    "changefreq": "weekly"
+  },
+  "homepages": [],
+  "source_base_path": "D:/a/ExampleSnippets-RaycastModification/ExampleSnippets-RaycastModification/Documentation",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Resource",
+      "output": {
+        "resource": {
+          "relative_path": "index.json"
+        }
+      },
+      "is_incremental": false
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JMRSDKExampleSnippets.BubbleShootControllerRay.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JMRSDKExampleSnippets.BubbleShootControllerRay.html",
+          "hash": "boaqGkSdDd20zFdPQCmaAsYlvtjeOHEZ+aNpMQVviEk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JMRSDKExampleSnippets.BubbleShootHeadRay.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JMRSDKExampleSnippets.BubbleShootHeadRay.html",
+          "hash": "NPCFawU4mKJnHBkLEaGJ2UC8aLnzoqaLV40oi9eARXo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JMRSDKExampleSnippets.DisableRay.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JMRSDKExampleSnippets.DisableRay.html",
+          "hash": "Woi1QY762npRSC3+fPdKBRF0nGw8EqOJkj9sH2DBzRU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JMRSDKExampleSnippets.SceneLoader.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JMRSDKExampleSnippets.SceneLoader.html",
+          "hash": "6ipADKy+3zx8zmEvkDwZfl3GgrkrcfQBCwdJEPBTE7s="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JMRSDKExampleSnippets.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JMRSDKExampleSnippets.html",
+          "hash": "xWRGUeVnfxDRj9x0caoSLUUgT2vH0Gtyi8m1sjdPyJk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html",
+          "hash": "9PlvXjgoBI4p7HVSTRGM/rjdQ7J/17mdfkArUOb5mPg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "Ss5MtDeB/HRnsDCOADXXspjJzxiE+1SgH293wUzNI/4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "manual/JMRSamples.md",
+      "output": {
+        ".html": {
+          "relative_path": "manual/JMRSamples.html",
+          "hash": "Puf6cUl5KvrsTQk+WVvtXu4cSlFMKpdFs9bT/HQCYBk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "manual/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "manual/toc.html",
+          "hash": "XN+wjYvVW3A8sUmllPWxGDf/WRi9DigMwl7PXcVE6Ck="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/ExampleManual.png",
+      "output": {
+        "resource": {
+          "relative_path": "resources/ExampleManual.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/ExampleScriptingApi.png",
+      "output": {
+        "resource": {
+          "relative_path": "resources/ExampleScriptingApi.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html",
+          "hash": "NYNnOJZ88KMB8rBXpBhhfXgGpwLXtPTqZ0vJglRZl+8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot build incrementally because last build info is missing.",
+        "incrementalPhase": "build",
+        "total_file_count": 0,
+        "skipped_file_count": 0,
+        "full_build_reason_code": "NoAvailableBuildCache"
+      },
+      "processors": {
+        "ConceptualDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 2,
+          "skipped_file_count": 0
+        },
+        "ManagedReferenceDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 5,
+          "skipped_file_count": 0
+        },
+        "ResourceDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor ResourceDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        },
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot support incremental post processing, the reason is: should not trace intermediate info.",
+        "incrementalPhase": "postProcessing",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}

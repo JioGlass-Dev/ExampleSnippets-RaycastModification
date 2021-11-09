@@ -1,0 +1,37 @@
+{
+  "api/JMRSDKExampleSnippets.BubbleShootControllerRay.html": {
+    "href": "api/JMRSDKExampleSnippets.BubbleShootControllerRay.html",
+    "title": "Class BubbleShootControllerRay | JMR Samples",
+    "keywords": "Class BubbleShootControllerRay Controls shooting from a ray of controller. Inheritance Object BubbleShootControllerRay Namespace : JMRSDKExampleSnippets Assembly : cs.temp.dll.dll Syntax public class BubbleShootControllerRay : MonoBehaviour Methods Update() getting controller ray from JMRPointerManager and disabling any gameobject in its path. Declaration public void Update()"
+  },
+  "api/JMRSDKExampleSnippets.BubbleShootHeadRay.html": {
+    "href": "api/JMRSDKExampleSnippets.BubbleShootHeadRay.html",
+    "title": "Class BubbleShootHeadRay | JMR Samples",
+    "keywords": "Class BubbleShootHeadRay Inheritance Object BubbleShootHeadRay Namespace : JMRSDKExampleSnippets Assembly : cs.temp.dll.dll Syntax public class BubbleShootHeadRay : MonoBehaviour Methods SwitchPointerToHead() Method to switch pointer to head ray. Declaration public void SwitchPointerToHead() Update() Creating controller ray from JMRPointerManager and disabling any gameobject in its path. Declaration public void Update()"
+  },
+  "api/JMRSDKExampleSnippets.DisableRay.html": {
+    "href": "api/JMRSDKExampleSnippets.DisableRay.html",
+    "title": "Class DisableRay | JMR Samples",
+    "keywords": "Class DisableRay Disable ray and controller model. Inheritance Object DisableRay Implements IBackHandler Namespace : JMRSDKExampleSnippets Assembly : cs.temp.dll.dll Syntax public class DisableRay : MonoBehaviour, IBackHandler Methods FindGameObjects() Find references to Laser Pointer, Pointer and JioGlass controller model and disable them. Declaration public void FindGameObjects() OnBackAction() Switch to main menu when back button is pressed. Declaration public void OnBackAction() Start() Add global listener and invoke FindGameObjects after delay. Declaration public void Start() Implements IBackHandler"
+  },
+  "api/JMRSDKExampleSnippets.html": {
+    "href": "api/JMRSDKExampleSnippets.html",
+    "title": "Namespace JMRSDKExampleSnippets | JMR Samples",
+    "keywords": "Namespace JMRSDKExampleSnippets Classes BubbleShootControllerRay Controls shooting from a ray of controller. BubbleShootHeadRay DisableRay Disable ray and controller model. SceneLoader"
+  },
+  "api/JMRSDKExampleSnippets.SceneLoader.html": {
+    "href": "api/JMRSDKExampleSnippets.SceneLoader.html",
+    "title": "Class SceneLoader | JMR Samples",
+    "keywords": "Class SceneLoader Inheritance Object SceneLoader Namespace : JMRSDKExampleSnippets Assembly : cs.temp.dll.dll Syntax public class SceneLoader : MonoBehaviour Methods FindGameObjects() Enable all gameobjects that were disbaled. Declaration public void FindGameObjects() Remarks Called after 2 seconds from start as these take time to get initialized. LoadGameScene() Declaration public void LoadGameScene()"
+  },
+  "index.html": {
+    "href": "index.html",
+    "title": "ExampleSnippets-RaycastModification | JMR Samples",
+    "keywords": "ExampleSnippets-RaycastModification Example for getting raycast, changing to head raycast, disabling ray and controller model."
+  },
+  "manual/JMRSamples.html": {
+    "href": "manual/JMRSamples.html",
+    "title": "Sample | JMR Samples",
+    "keywords": "Sample"
+  }
+}
