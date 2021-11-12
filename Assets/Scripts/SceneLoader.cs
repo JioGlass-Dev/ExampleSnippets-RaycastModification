@@ -27,7 +27,7 @@ namespace JMRSDKExampleSnippets
         }
 
         /// <summary>
-        /// Enable all gameobjects that were disbaled.
+        /// Enable all gameobjects that were disabled.
         /// </summary>
         /// <remarks>
         /// Called after 2 seconds from start as these take time to get initialized.
