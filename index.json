@@ -22,7 +22,7 @@
   "api/JMRSDKExampleSnippets.SceneLoader.html": {
     "href": "api/JMRSDKExampleSnippets.SceneLoader.html",
     "title": "Class SceneLoader | JMR Samples",
-    "keywords": "Class SceneLoader Inheritance Object SceneLoader Namespace : JMRSDKExampleSnippets Assembly : cs.temp.dll.dll Syntax public class SceneLoader : MonoBehaviour Methods FindGameObjects() Enable all gameobjects that were disbaled. Declaration public void FindGameObjects() Remarks Called after 2 seconds from start as these take time to get initialized. LoadGameScene() Declaration public void LoadGameScene()"
+    "keywords": "Class SceneLoader Inheritance Object SceneLoader Namespace : JMRSDKExampleSnippets Assembly : cs.temp.dll.dll Syntax public class SceneLoader : MonoBehaviour Methods FindGameObjects() Enable all gameobjects that were disabled. Declaration public void FindGameObjects() Remarks Called after 2 seconds from start as these take time to get initialized. LoadGameScene() Declaration public void LoadGameScene()"
   },
   "index.html": {
     "href": "index.html",
